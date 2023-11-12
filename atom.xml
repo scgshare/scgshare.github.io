@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kit</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-11-12T13:05:26.242Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>To-the-js.org-moderators</title>
+    <link href="http://example.com/2023/11/12/To-the-js-org-moderators/"/>
+    <id>http://example.com/2023/11/12/To-the-js-org-moderators/</id>
+    <published>2023-11-12T12:56:46.000Z</published>
+    <updated>2023-11-12T13:05:26.242Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello, dear auditor<br>I am a middle school student from China. This is the website I built for our team. I hope you can pass my sincere request.<br>wishing you many years of joy and happiness.<br>There is a comment section at the bottom of the page.<br>Tsuki</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Hello, dear auditor&lt;br&gt;I am a middle school student from China. This is the website I built for our team. I hope you can pass my sincere </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>dev</title>
+    <link href="http://example.com/2023/11/12/dev/"/>
+    <id>http://example.com/2023/11/12/dev/</id>
+    <published>2023-11-12T12:40:27.000Z</published>
+    <updated>2023-11-12T12:51:15.762Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Check the test case after each submission</strong></p><h1 id="Heading-level-1"><a href="#Heading-level-1" class="headerlink" title="Heading level 1"></a>Heading level 1</h1><h2 id="Heading-level-2"><a href="#Heading-level-2" class="headerlink" title="Heading level 2"></a>Heading level 2</h2><h3 id="Heading-level-3"><a href="#Heading-level-3" class="headerlink" title="Heading level 3"></a>Heading level 3</h3><h4 id="Heading-level-4"><a href="#Heading-level-4" class="headerlink" title="Heading level 4"></a>Heading level 4</h4><h5 id="Heading-level-5"><a href="#Heading-level-5" class="headerlink" title="Heading level 5"></a>Heading level 5</h5><h6 id="Heading-level-6"><a href="#Heading-level-6" class="headerlink" title="Heading level 6"></a>Heading level 6</h6><p>paragraph   <strong>Bold</strong>    <em>Italic</em>    Line Break -&gt; <br></p><blockquote><p>quote<br>quote2</p><h1 id="quote-Heading-level-1"><a href="#quote-Heading-level-1" class="headerlink" title="quote Heading level 1"></a>quote Heading level 1</h1></blockquote><ol><li>First item</li><li>Second item</li></ol><ul><li>First item</li><li>Second item<br><code>document.write(&quot;Hello World&quot;);</code></li></ul><hr><p><a class="link"   href="https://www.example.com/" >link<i class="fas fa-external-link-alt"></i></a>。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Check the test case after each submission&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;Heading-level-1&quot;&gt;&lt;a href=&quot;#Heading-level-1&quot; class=&quot;headerlink&quot; tit</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2023/11/12/hello-world/"/>
+    <id>http://example.com/2023/11/12/hello-world/</id>
+    <published>2023-11-12T03:49:50.261Z</published>
+    <updated>2023-11-12T11:27:46.049Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fas fa-external-link-alt"></i></a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fas fa-external-link-alt"></i></a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fas fa-external-link-alt"></i></a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fas fa-external-link-alt"></i></a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a class=&quot;link&quot;   href=&quot;https://hexo.io/&quot; &gt;Hexo&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;! This is your very first post. Che</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
